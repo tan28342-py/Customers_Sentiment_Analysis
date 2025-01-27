@@ -1,0 +1,1 @@
+This code takes customer reviews from a database, analyzes the feelings (or "sentiment") in each review, and categorizes them as positive, negative, or neutral. It also looks at the rating given by the customer (from 1 to 5 stars) and combines that with the sentiment analysis to determine how to label the review.
